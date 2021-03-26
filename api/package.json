@@ -1,0 +1,11 @@
+{
+  "name": "static-example-api",
+  "version": "0.1.0",
+  "description": "An static example API for retrieving randomized data for a fictional survey",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
